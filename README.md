@@ -1,9 +1,8 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hello World ! </h1>
 
 
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pranav0-3&label=Profile%20views&color=0e75b6&style=flat" alt="pranav0-3" /> </p>
-
-
 
 
 
@@ -14,21 +13,28 @@
 </p>
 
 
+
 ![Snake animation](https://github.com/GuillaumeFalourd/GuillaumeFalourd/blob/output/github-contribution-grid-snake.svg)
 
 
+
 ### ✍️Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api??type=vertical&theme=dark)
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+
+
 
 ## 📟 GitHub Stats
 <p align="center">
-	<img width="48%" src="https://github-readme-stats.vercel.app/api?username=pranav0-3&show_icons=true&theme=dark" />
-	<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=pranav0-3&theme=dark" />
+	<img width="49%" src="https://github-readme-stats.vercel.app/api?username=pranav0-3&show_icons=true&theme=dark" />
+	<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=pranav0-3&theme=dark" />
 </p>
 
 
 
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Pranav0-3&theme=github_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Pranav0-3&theme=github_dark)
+
+  
+   
 ## 💳 Github Profile Summary Card
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pranav0-3&theme=vue"/>
-</p>
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Pranav0-3&theme=github_dark)
