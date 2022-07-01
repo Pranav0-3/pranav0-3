@@ -1,8 +1,7 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hello World ! </h1>
 
 
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=pranav0-3&label=Profile%20views&color=0e75b6&style=flat" alt="pranav0-3" /> </p>
+![](https://komarev.com/ghpvc/?username=Pranav0-3&color=red&label=PROFILE+VIEWS)
 
 
 
@@ -38,3 +37,4 @@
    
 ## 💳 Github Profile Summary Card
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Pranav0-3&theme=github_dark)
+
